@@ -14,7 +14,9 @@
         "angular-ui-bootstrap": "",
         "angular-ui-calendar":"",
         "socket.io":"",
-        "lodash": ""
+        "lodash": "",
+        "pug":"",
+        "less":""
     },
     "devDependencies": {
         "electron-prebuilt": ""
