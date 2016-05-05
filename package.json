@@ -12,11 +12,11 @@
         "jquery": "",
         "angular-semantic-ui": "",
         "angular-ui-bootstrap": "",
-        "angular-ui-calendar":"",
-        "socket.io":"",
+        "angular-ui-calendar": "",
+        "socket.io": "",
         "lodash": "",
-        "pug":"",
-        "less":""
+        "axis": "",
+        "nib": ""
     },
     "devDependencies": {
         "electron-prebuilt": ""
